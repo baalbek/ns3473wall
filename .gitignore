@@ -2,6 +2,6 @@
 tmp
 src/demo
 dist
-ns3473beam-*
+ns3473wall-*
 *.ods#
 src/NS3473
